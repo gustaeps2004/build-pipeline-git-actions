@@ -1,0 +1,6 @@
+@WebTestePipeline_HostAddress = http://localhost:5056
+
+GET {{WebTestePipeline_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
